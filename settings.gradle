@@ -1,0 +1,6 @@
+rootProject.name = 'tel-health-backend'
+
+include 'tel-health-backend-service'
+include 'tel-health-component-tests'
+include 'tel-health-stress-tests'
+
